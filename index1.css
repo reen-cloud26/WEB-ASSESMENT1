@@ -1,0 +1,62 @@
+button{
+    border-radius:20px;
+    background: black;
+    color: white;
+}
+a{
+    background-color: blueviolet;
+ 
+}
+.fa-twitter
+font-size: smaller;
+.fa-map{
+    font-size: smaller;
+ 
+}   
+.fa-phone{
+    font-size: smaller;
+  
+}
+.fa-square-envelope{
+   
+   font-size: smaller;
+}
+
+.container{
+    border-radius:10;;
+    border: 3;
+    border-color: black;
+    display:flex;
+    flex-wrap: wrap;
+    grid-template-rows: auto;
+    flex-direction: row;
+    
+}
+@keyframes{
+    animation: hello 3 infinite :left-right :fullscreen;
+    
+}
+article.flex-box{
+    border-radius: 5px;
+    margin:2px ;
+}
+.fa-layer-group{
+    display:block;
+    border-radius: 2px;
+    margin:1rem;
+    border: 1px;
+    padding:1rem;
+    background-color: white;
+    color:blue;
+}
+.section{
+    border:2;
+    border-color:blue:
+}
+.development{
+    border-radius: 20px;
+display: flex;
+flex-direction: row;
+
+
+}
